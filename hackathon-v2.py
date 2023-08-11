@@ -1,3 +1,5 @@
+# this script is a test for the different layouts you can make in matplotlib.py
+
 import matplotlib.pyplot as plt
 import numpy as np
 
