@@ -1,4 +1,4 @@
-# imports
+# This script is part of our entry for the 2-12-22 hackathon. It plots data that was used in our presentation.
 import matplotlib.pyplot as plt
 import numpy as np
 
